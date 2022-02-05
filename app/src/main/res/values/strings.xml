@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SMS Bomber</string>
+    <string name="numberTextView">Entrer le nombre de messages à envoyer :</string>
+    <string name="sendTextButton">Envoyer</string>
+    <string name="countTextView">Entrer un numéro de téléphone ou choisir un contact :</string>
+    <string name="messageListTextView">Choisir un message type :</string>
+    <string name="addTextButton">Ajouter</string>
+    <string name="messageTextView">Entrer un message type :</string>
+    <string name="message_type">Message type</string>
+    <string name="message_list">Message list</string>
+    <string name="numero_telephone">Numéro de téléphone</string>
+    <string name="contact_list">Contact list</string>
+    <string name="nombre_de_messages">Nombre de messages</string>
+</resources>
